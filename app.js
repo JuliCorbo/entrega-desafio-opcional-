@@ -7,7 +7,7 @@ let precio = cantidadDeUnidades * 15
 
 alert("el total de su compra es de " + "$" + precio)
 
-
+console.log("enviar a " + " " + name1)
 
 
 for(s= 1 ; s <=3; s++){
